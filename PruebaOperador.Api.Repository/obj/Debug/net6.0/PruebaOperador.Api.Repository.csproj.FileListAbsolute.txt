@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Repository\obj\Debug\net6.0\PruebaOperador.Api.Repository.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Repository\obj\Debug\net6.0\PruebaOperador.Api.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Repository\obj\Debug\net6.0\PruebaOperador.Api.Repository.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Repository\obj\Debug\net6.0\PruebaOperador.Api.Repository.AssemblyInfo.cs
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Repository\obj\Debug\net6.0\PruebaOperador.Api.Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Repository\bin\Debug\net6.0\PruebaOperador.Api.Repository.deps.json
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Repository\bin\Debug\net6.0\PruebaOperador.Api.Repository.dll
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Repository\bin\Debug\net6.0\PruebaOperador.Api.Repository.pdb
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Repository\bin\Debug\net6.0\PruebaOperador.Api.Model.dll
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Repository\bin\Debug\net6.0\PruebaOperador.Api.Services.dll
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Repository\bin\Debug\net6.0\PruebaOperador.Api.Services.pdb
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Repository\bin\Debug\net6.0\PruebaOperador.Api.Model.pdb
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Repository\obj\Debug\net6.0\PruebaOperador.Api.Repository.csproj.CopyComplete
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Repository\obj\Debug\net6.0\PruebaOperador.Api.Repository.dll
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Repository\obj\Debug\net6.0\refint\PruebaOperador.Api.Repository.dll
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Repository\obj\Debug\net6.0\PruebaOperador.Api.Repository.pdb
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Repository\obj\Debug\net6.0\ref\PruebaOperador.Api.Repository.dll

@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.0-preview.5.23280.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.0-preview.5.23280.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PruebaOperador.Api.BusinessServices\PruebaOperador.Api.BusinessServices.csproj" />
+    <ProjectReference Include="..\PruebaOperador.Api.Model\PruebaOperador.Api.Model.csproj" />
+    <ProjectReference Include="..\PruebaOperador.Api.Repository\PruebaOperador.Api.Repository.csproj" />
+    <ProjectReference Include="..\PruebaOperador.Api.Services\PruebaOperador.Api.Services.csproj" />
+  </ItemGroup>
+
+</Project>

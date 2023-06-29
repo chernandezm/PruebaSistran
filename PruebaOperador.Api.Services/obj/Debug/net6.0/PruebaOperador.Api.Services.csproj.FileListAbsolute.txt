@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Services\obj\Debug\net6.0\PruebaOperador.Api.Services.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Services\obj\Debug\net6.0\PruebaOperador.Api.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Services\obj\Debug\net6.0\PruebaOperador.Api.Services.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Services\obj\Debug\net6.0\PruebaOperador.Api.Services.AssemblyInfo.cs
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Services\obj\Debug\net6.0\PruebaOperador.Api.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Services\bin\Debug\net6.0\PruebaOperador.Api.Services.deps.json
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Services\bin\Debug\net6.0\PruebaOperador.Api.Services.dll
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Services\bin\Debug\net6.0\PruebaOperador.Api.Services.pdb
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Services\bin\Debug\net6.0\PruebaOperador.Api.Model.dll
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Services\bin\Debug\net6.0\PruebaOperador.Api.Model.pdb
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Services\obj\Debug\net6.0\PruebaOperador.Api.Services.csproj.CopyComplete
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Services\obj\Debug\net6.0\PruebaOperador.Api.Services.dll
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Services\obj\Debug\net6.0\refint\PruebaOperador.Api.Services.dll
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Services\obj\Debug\net6.0\PruebaOperador.Api.Services.pdb
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Services\obj\Debug\net6.0\ref\PruebaOperador.Api.Services.dll

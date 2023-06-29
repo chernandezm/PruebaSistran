@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Model\obj\Debug\net6.0\PruebaOperador.Api.Model.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Model\obj\Debug\net6.0\PruebaOperador.Api.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Model\obj\Debug\net6.0\PruebaOperador.Api.Model.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Model\obj\Debug\net6.0\PruebaOperador.Api.Model.AssemblyInfo.cs
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Model\obj\Debug\net6.0\PruebaOperador.Api.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Model\bin\Debug\net6.0\PruebaOperador.Api.Model.deps.json
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Model\bin\Debug\net6.0\PruebaOperador.Api.Model.dll
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Model\bin\Debug\net6.0\PruebaOperador.Api.Model.pdb
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Model\obj\Debug\net6.0\PruebaOperador.Api.Model.dll
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Model\obj\Debug\net6.0\refint\PruebaOperador.Api.Model.dll
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Model\obj\Debug\net6.0\PruebaOperador.Api.Model.pdb
+C:\Users\User\source\repos\PruebaOperador.Api\PruebaOperador.Api.Model\obj\Debug\net6.0\ref\PruebaOperador.Api.Model.dll
